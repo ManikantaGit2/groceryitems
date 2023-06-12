@@ -1,0 +1,42 @@
+.bg-container {
+    height: 700px;
+    width: 500px;
+    background-color: rgb(48, 127, 127);
+}
+.heading {
+    color: white;
+    margin-left: 150px;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+.list-container {
+    background-color: white;
+    border-radius: 6px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+   font-weight: 500;
+    
+}
+.check {
+    margin-left: 20px;
+}
+.delivery-text {
+    color: white;
+    margin-left: 5px;
+    font-weight: bold;
+    font-style: italic;
+    
+}
+.button {
+    background-color: rgb(67, 67, 198);
+    border-radius: 6px;
+    color: white;
+    height: 40px;
+    width: 150px;
+    border-style: solid;
+    border-color: rgb(48, 127, 127);
+    margin-left: 70px;
+    margin-top: 15px;
+}
